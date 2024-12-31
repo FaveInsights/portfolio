@@ -11,7 +11,7 @@ const Dashboards = () => {
       </div>
 <img src = {overview} alt='dashboard' />
       <div>
-
+yuhjkl,;
       </div>
     </section>
   );
